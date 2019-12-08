@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-["red", "blue", "green", "yellow"]
+[red, blue, green, yellow]
 def create_an_array
   
 end
