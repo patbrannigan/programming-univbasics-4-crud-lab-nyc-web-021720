@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+[red, blue, green, yelowlearn --fail-fast]
 def create_an_array
   
 end
